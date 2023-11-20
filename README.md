@@ -1,4 +1,4 @@
-# Desafio-2-DIO.me
+# Desafio-2-DIO.me-C/C++
 # jogo da velha
 
 #include <stdio.h>
